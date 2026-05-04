@@ -5,6 +5,24 @@
 
 ---
 
+## 📋 Table of Contents
+
+- [📌 Project Overview](#-project-overview)
+- [🏦 About BofA IB VEP (The Forage)](#-about-bofa-ib-vep-the-forage)
+- [📋 Tasks Completed – Summary Table](#-tasks-completed--summary-table)
+- [🔍 Detailed Task Breakdown](#-detailed-task-breakdown)
+  - [Task 1: SWOT Analysis – Threats Section](#task-1-swot-analysis--threats-section)
+  - [Task 2: Financial Summary Excel](#task-2-financial-summary-excel)
+  - [Task 3: M&A Target Screening & Recommendation](#task-3-ma-target-screening--recommendation)
+  - [Task 4: Nintendo DCF Valuation](#task-4-nintendo-dcf-valuation)
+  - [Task 5: Two-Pager Presentation (Pitch Material)](#task-5-two-pager-presentation-pitch-material)
+  - [Task 6: Voicemail Script for Nintendo CDO Outreach](#task-6-voicemail-script-for-nintendo-cdo-outreach)
+- [📊 Key Results & Valuation Summary](#-key-results--valuation-summary)
+- [✅ Conclusion & Key Takeaways](#-conclusion--key-takeaways)
+- [📁 Repository Structure](#-repository-structure)
+
+---
+
 ## 📌 Project Overview
 
 This project simulates a real-world Investment Banking M&A engagement at **Bank of America**. As an analyst on the deal team, I supported Managing Director **Susan** and Vice President **Paula** in evaluating strategic M&A opportunities for **Webflix, Inc.**, a leading streaming and entertainment company.
